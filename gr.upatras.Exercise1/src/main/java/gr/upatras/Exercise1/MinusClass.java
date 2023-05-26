@@ -1,5 +1,5 @@
 package gr.upatras.Exercise1;
-
+//Mini Change
 public class MinusClass {
 	public String minus(int firstNumber, int secondNumber) {
 		String result;
